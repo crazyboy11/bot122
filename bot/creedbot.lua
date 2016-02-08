@@ -274,7 +274,7 @@ Set realm name
 اسم گروه مادر را تغییر بدهید
 
 !setabout [GroupID] [Text]
-Set a group's about text
+Set a group,s about text
 در مورد  آن گروه توضیحاتی را بنویسید (ای دی گروه را بدهید )
 
 !setrules [GroupID] [Text]
