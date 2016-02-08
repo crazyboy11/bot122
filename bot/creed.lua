@@ -236,7 +236,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {95822747},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Creed bot 2.3
@@ -274,7 +274,7 @@ Set a group's about text
 در مورد  آن گروه توضیحاتی را بنویسید (ای دی گروه را بدهید )
 
 !setrules [GroupID] [Text]
-Set a group's rules
+Set a groups rules
 در مورد آن گروه قوانینی تعیین کنید ( ای دی گروه را بدهید )
 
 !lock [GroupID] [setting]
