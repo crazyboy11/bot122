@@ -274,7 +274,7 @@ Set a group's about text
 در مورد  آن گروه توضیحاتی را بنویسید (ای دی گروه را بدهید )
 
 !setrules [GroupID] [Text]
-Set a group's rules
+Set a groups rules
 در مورد آن گروه قوانینی تعیین کنید ( ای دی گروه را بدهید )
 
 !lock [GroupID] [setting]
