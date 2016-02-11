@@ -240,7 +240,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {95822747},--Sudo users
+    sudo_users = {172178919},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Creed bot 2.3
@@ -251,7 +251,7 @@ function create_config( )
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
    ߔࠀ   @sorblack_creed
-   ߔࠀ   @amircc_creed
+   ߔࠀ   @aCobrA_ice
    ߔࠀ   @aria_creed
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
